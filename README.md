@@ -1,7 +1,7 @@
 # fantastic-invention
 Cooperate unity project
 
-Agenda 4-29
+Agenda
 1. Gameplay/Mechanics discussion
 2. Scene setup
 3. Game logic setup
